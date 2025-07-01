@@ -1,4 +1,4 @@
-yay -S --noconfirm --needed \
+paru -Syyu --noconfirm --needed \
   cargo clang llvm mise \
   imagemagick \
   mariadb-libs postgresql-libs \

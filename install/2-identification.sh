@@ -1,5 +1,5 @@
 # Need gum to query for input
-yay -S --noconfirm --needed gum
+paru -Syyu --noconfirm --needed gum
 
 # Configure identification
 echo -e "\nEnter identification for git and autocomplete..."
